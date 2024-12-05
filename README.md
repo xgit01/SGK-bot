@@ -69,4 +69,4 @@ Telegram（电报）社工库机器人，用于检查个人的隐私泄露情况
 > 为保证本仓库质量，所推荐机器人的数据库数量、检索结果质量等指标须先由贡献者个人验证后方可提交。其结论由贡献者负责，管理员将不定期通过抽查、审核等方式进行审查，未通过或存在异常/漏洞的机器人将被移除。
 
 ## ⭐ Starchart
-![star](https://starchart.cc/Rc-W024/SGK-bot.svg)
+![star](https://starchart.cc/xgit01/SGK-bot.svg)
