@@ -14,7 +14,7 @@ Telegram（电报）社工库机器人，用于检查个人的隐私泄露情况
 已安装注册Telegram的用户（下同）可直接通过[**传送门**](https://t.me/aishegongkubot?start=AISGK_TDW5DW2V)访问，根据机器人提示操作即可。
 
 ## liemo （猎魔专用）
-数据库数据达90%覆盖度。可通过每日签到、邀请或充值获得积分。首次查询请参考[使用教程](https://speak-1.gitbook.io/hh_liemo_bot)。
+数据库数据达90%覆盖度。可通过每日签到、邀请或充值获得积分。首次查询请参考[使用教程](https://www.shegongku.top/179.html)。
 
 可直接通过[**传送门**](https://t.me/hh_liemo_bot?start=6320564014)访问，根据机器人提示操作即可。
 
