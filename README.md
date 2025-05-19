@@ -1,7 +1,7 @@
 # 高质量免费社工库机器人
 ![](https://img.shields.io/badge/Telegram-2CA5E0?style=&logo=telegram&logoColor=white)
 
-Telegram（电报）社工库机器人，用于检查个人的隐私泄露情况。经过测试，已滤除数据库较老、使用门槛较高、NOT WORKING、结果匹配度低、停止维护、结果质量较低等机器人。排名不分先后。
+Telegram（电报）社工库机器人，整理的高质量免费开盒社工库仅限用于检查个人的隐私泄露情况。经过测试，已滤除数据库较老、使用门槛较高、NOT WORKING、结果匹配度低、停止维护、结果质量较低等机器人。排名不分先后。
 
 > [!WARNING]\
 > **本仓库仅用于存储由各开发者所维护、管理的社工库（Social Engineering Database）机器人，其数据库、接口、信息源及其向使用者提供的各类查询业务等均由其对应团队负责，与本仓库管理员无关！**
