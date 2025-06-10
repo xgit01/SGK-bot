@@ -64,7 +64,7 @@ AI社工库俗称爱社工库，知名开盒Telegram社工库，数据量大且�
 
 社工库新锐，巨人社工库主打免费，网友贡献的社工库，Telegram开盒智能机器人，支持多种开户方式，如简单查询、复杂查询、手机号猎魔社工库，主要功能在聊天机器人的对话窗口点一下帮助菜单可以获取。
 
-使用时需要先安装[Telegram](https://www.mfsgk.com/14.html)，然后通过[**传送门**](https://t.me/mfsgk2025)访问使用即可。
+使用时需要先安装[Telegram](https://www.mfsgk.com/14.html)，然后通过[**传送门**](https://www.mfsgk.com/124.html)访问使用即可。
 
 ## 时利和社工库
 
