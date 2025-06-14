@@ -20,7 +20,7 @@ Telegram（电报）社工库机器人，整理的高质量免费开盒社工库
 <a href="https://www.shegongku.top/60.html" rel="nofollow"><img src="/imgs/QingBaoJuXuanwubot.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
 
 ## AISGK
-AI社工库俗称爱社工库，知名开盒Telegram社工库，数据量大且优质，输出结果信息较为全面，查询永久免费。为保护隐私，查询结果会码去90%的内容，如需解锁须通过扣除学分获得。学分可自助充值（USDT支付），更多学分即可解锁其他诸如语言模型之类的功能。首次查询请参考[使用教程](https://www.shegongku.top/179.html)。
+AI社工库也叫爱社工库，知名开盒Telegram社工库，数据量大且优质，输出结果信息较为全面，查询永久免费。为保护隐私，查询结果会码去90%的内容，如需解锁须通过扣除学分获得。学分可自助充值（USDT支付），更多学分即可解锁其他诸如语言模型之类的功能。首次查询请参考[使用教程](https://www.shegongku.top/179.html)。
 
 已安装注册Telegram的用户（下同）可直接通过[**传送门**](https://www.mfsgk.com/22.html)访问，根据机器人提示操作即可。
 
