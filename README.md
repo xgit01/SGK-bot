@@ -17,7 +17,7 @@ Telegram（电报）社工库机器人，整理的高质量免费开盒社工库
 
 群友查询效果图：
 
-<a href="https://www.shegongku.top/60.html" rel="nofollow"><img src="/imgs/QingBaoJuXuanwubot.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
+<a href="https://www.shegongku.top/60.html" rel="nofollow"><img src="/imgs/qingbaoju-result.png" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
 
 ## 暗精灵社工库
 
